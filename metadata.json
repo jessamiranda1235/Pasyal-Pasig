@@ -1,0 +1,6 @@
+{
+  "name": "Pasyal Pasig",
+  "description": "An interactive, festive tourism portal showcasing stunning destinations, rich cultural traditions, and essential local Tagalog phrases with built-in voice pronunciations in Pasig City.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
